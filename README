@@ -1,0 +1,6 @@
+
+## Converting your .ui file to Python
+
+```
+pyuic5 ui/wave.ui -o ui/wave.py
+```
